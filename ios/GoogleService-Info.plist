@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>450502489436-pp3icgdm1j12uifkr03stltm5ngbm76j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.450502489436-pp3icgdm1j12uifkr03stltm5ngbm76j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDioM1SxAA5lqk7X-eEmNXBqGiLy6BzCRQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>450502489436</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.apex</string>
+	<key>PROJECT_ID</key>
+	<string>apex-eacf6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apex-eacf6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:450502489436:ios:7be1cfa48a884a5e5cbd99</string>
+	<key>DATABASE_URL</key>
+	<string>https://apex-eacf6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
